@@ -149,6 +149,9 @@
   <ItemGroup>
     <ClCompile Include="Eldercode.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PlayerChar.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
